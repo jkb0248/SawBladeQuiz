@@ -1,0 +1,34 @@
+[
+    {
+        "type": "radio",
+        "header": "When is is ok to unlock the Slide Stop on the Miter Saw?",
+        "data": [
+            "When cutting something no wider than 2 inches.",
+            "When cutting something wider than 5 inches.",
+            "When cutting all 45 degree angles.",
+            "When cutting all 29.5 degree angles."
+        ],
+        "answer": 3
+    },
+    {
+        "type": "radio",
+        "header": "When using the Miter Saw you must always make sure that:",
+        "data": [
+            "the slide stop is locked.",
+            "your work piece is correctly measured.",
+            "you hand is at least 8 inches from the blade.",
+            "both a and c.",
+            "both a and b."
+        ],
+        "answer":4
+    },
+    {
+        "type": "bool",
+        "header": "When using the Miter Saw, your work piece must be pushed against the fence.",
+        "data": [
+            "True",
+            "False"
+        ],
+        "answer":0
+    }
+]
